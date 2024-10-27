@@ -1,0 +1,8 @@
+
+rules:
+  - id: "1001"
+    description: "Detect SSH brute force attempts"
+    pattern: "Failed password for invalid user"
+  - id: "1002"
+    description: "Detect suspicious outbound traffic"
+    pattern: "Suspicious outbound connection"
