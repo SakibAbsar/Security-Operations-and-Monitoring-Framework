@@ -1,5 +1,5 @@
 
-# IT Security Operations and Monitoring Framework
+# Security Operations and Monitoring Framework
 
 ## Overview
 This project simulates an IT Security Operations framework that includes vulnerability scanning, log monitoring, intrusion detection, and incident response. It provides a toolkit to simulate the operations of a Security Operations Center (SOC).
